@@ -7,9 +7,7 @@
     <string name="tab_text_2">ACESSO</string>
     <string name="tab_text_3">TERMOS</string>
 
-    <string name="label_terms_and_conditions">
-        Concordo com os termos e condições de uso.
-    </string>
+    <string name="label_terms_and_conditions">Concordo com os termos e condições de uso.</string>
     <string name="email">Email</string>
     <string name="password">Senha</string>
     <string name="login">Entrar</string>
