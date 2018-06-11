@@ -739,9 +739,7 @@
     <string name="fullname">Nome completo</string>
     <string name="hello_world">Hello world!</string>
     <string name="job">Profissão</string>
-    <string name="label_terms_and_conditions">
-        Concordo com os termos e condições de uso.
-    </string>
+    <string name="label_terms_and_conditions">Concordo com os termos e condições de uso.</string>
     <string name="library_roundedimageview_author">Vince Mi</string>
     <string name="library_roundedimageview_authorWebsite">https://github.com/vinc3m1</string>
     <string name="library_roundedimageview_isOpenSource">true</string>

@@ -31,6 +31,7 @@ class SignUpPersonalFragment :
             false)
     }
 
+    // Acionando a API que apresenta ao usuário a interface para escolha de imagem / foto.
     override fun onClick(view: View?) {
         PhotoPicker.builder()
             .setPhotoCount(1)
@@ -40,6 +41,7 @@ class SignUpPersonalFragment :
             .start(activity!!, PhotoPicker.REQUEST_CODE);
     }
 
+    // Se alguma imagem / foto foi escolhida pelo usuário, coloque-a no ImageView do layout.
     fun updatePhoto( imgPath: String ){
         if( !imgPath.isEmpty() ){
             this.imgPath = imgPath

@@ -56,6 +56,10 @@ class SignUpTermsFragment :
         val ivProfile = layout.findViewById<RoundedImageView>(R.id.iv_profile)
         ivProfile.setImageURI( Uri.parse( signUpViewModel.user.imagePath ) )
 
+        /*
+		 * Configuração e acionamento da caixa de diálogo, com
+		 * o MaterialDialog, contendo os dados preenchidos.
+		 * */
         MaterialDialog(activity)
             .setContentView( layout )
             .setCanceledOnTouchOutside(true)
