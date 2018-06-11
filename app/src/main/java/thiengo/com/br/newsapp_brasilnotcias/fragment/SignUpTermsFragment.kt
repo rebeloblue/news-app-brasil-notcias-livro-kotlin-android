@@ -7,12 +7,9 @@ import android.support.v4.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Button
-import android.widget.CheckBox
 import android.widget.CompoundButton
 import android.widget.TextView
 import com.makeramen.roundedimageview.RoundedImageView
-import kotlinx.android.synthetic.main.fragment_sign_up_access.*
 import kotlinx.android.synthetic.main.fragment_sign_up_terms.*
 import me.drakeet.materialdialog.MaterialDialog
 import thiengo.com.br.newsapp_brasilnotcias.R

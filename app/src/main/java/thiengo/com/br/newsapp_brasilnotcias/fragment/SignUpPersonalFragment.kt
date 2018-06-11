@@ -7,7 +7,6 @@ import android.support.v4.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.ImageView
 import kotlinx.android.synthetic.main.fragment_sign_up_personal.*
 import me.iwf.photopicker.PhotoPicker
 import thiengo.com.br.newsapp_brasilnotcias.R

@@ -8,7 +8,6 @@ import android.view.MenuItem
 import kotlinx.android.synthetic.main.activity_sign_up.*
 import me.iwf.photopicker.PhotoPicker
 import thiengo.com.br.newsapp_brasilnotcias.R
-import thiengo.com.br.newsapp_brasilnotcias.R.id.toolbar
 import thiengo.com.br.newsapp_brasilnotcias.conf.SectionsPagerAdapter
 import thiengo.com.br.newsapp_brasilnotcias.fragment.SignUpPersonalFragment
 
