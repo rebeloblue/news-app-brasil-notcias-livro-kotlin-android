@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">News App - Brasil Notícias</string>
+
     <string name="title_activity_sign_up">Cadastro</string>
     <string name="tab_text_1">PESSOAL</string>
     <string name="tab_text_2">ACESSO</string>
