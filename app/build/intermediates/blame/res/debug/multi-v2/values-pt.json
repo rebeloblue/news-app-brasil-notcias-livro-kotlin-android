@@ -4,24 +4,7 @@
             "outputFile": "/Users/viniciusthiengo/Desktop/Applications/NewsAppBrasilNotcias/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
             "map": [
                 {
-                    "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/PhotoPicker-0.9.12.aar/8657d586be2a92dfaee18a1770a76c72/res/values-pt/values-pt.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,118,171,242,294,366,427,494,548,607,707,758,809",
-                        "endColumns": "62,52,70,51,71,60,66,53,58,99,50,50,44",
-                        "endOffsets": "113,166,237,289,361,422,489,543,602,702,753,804,849"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,168,221,292,344,416,477,544,598,657,757,808,859",
-                        "endColumns": "62,52,70,51,71,60,66,53,58,99,50,50,44",
-                        "endOffsets": "163,216,287,339,411,472,539,593,652,752,803,854,899"
-                    }
-                },
-                {
-                    "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d61e2c13263fa6397516c03d3604f4a2/res/values-pt/values-pt.xml",
+                    "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/692aa1882c7e07f66306ea7e36ab8d70/res/values-pt/values-pt.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/94e4b09cdeabf8d328d24bc4c1dfdac2/res/values-pt/values-pt.xml",
+                    "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/PhotoPicker-0.9.12.aar/b8d163ff9885e95e96e0292665c434c7/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,118,171,242,294,366,427,494,548,607,707,758,809",
+                        "endColumns": "62,52,70,51,71,60,66,53,58,99,50,50,44",
+                        "endOffsets": "113,166,237,289,361,422,489,543,602,702,753,804,849"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,168,221,292,344,416,477,544,598,657,757,808,859",
+                        "endColumns": "62,52,70,51,71,60,66,53,58,99,50,50,44",
+                        "endOffsets": "163,216,287,339,411,472,539,593,652,752,803,854,899"
+                    }
+                },
+                {
+                    "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/490dcd2134f998722a9e64a6a34c96b9/res/values-pt/values-pt.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
